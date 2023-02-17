@@ -1,12 +1,9 @@
 #include <stdio.h>
-#include <stdlib.h>
-
 /**
- * entry point - int main function
- * description - print out alphabets in lower case
- * author: Esther Muthoni
- */
-
+* main - This program prints the alphabet in lowercase
+* and uses the control loop for, and the function putchar
+* Return: Always 0 (Success)
+*/
 int main(void)
 {
 char ch;
