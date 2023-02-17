@@ -1,16 +1,12 @@
 #include <stdio.h>
-#include <stdlib.h>
-
 /**
- * main entry - int main func
- * description - print out single digits of base 10
- * author: Esther Muthoni
- */
+* main - Entry point
+* program to print all single digit numbers of base 10
+* Return: 0
+*/
+
 int main(void)
 {
-int i;
-for (i = 0; i < 10; i++)
-printf("%d", i);
-putchar('\n');
-return (0);
+	puts("0123456789");
+	return (0);
 }
