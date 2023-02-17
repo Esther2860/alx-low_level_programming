@@ -1,12 +1,10 @@
 #include <stdio.h>
-
 /**
- * main entry - int main func
- * description - print alphabet in lowercase
- * and in uppercase followed by a newline
+ * main - This program prints the alphabet in lowercase
+ * and then in uppercase as well.
+ * Return: Always 0 (Success)
  * author: Esther Muthoni
  */
-
 int main(void)
 {
 char ch;
