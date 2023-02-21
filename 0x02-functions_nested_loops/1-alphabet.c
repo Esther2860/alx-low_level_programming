@@ -1,10 +1,8 @@
 #include "main.h"
-
 /**
- * main - int main function
- * description - used _putchar function to print alphabets in lower case
- * author: Esther Muthoni
- */
+* print_alphabet - print a-z
+*
+*/
 void print_alphabet(void)
 {
 	char alphabet[] = "abcdefghijklmnopqrstuvwxyz\n";
